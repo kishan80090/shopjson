@@ -5,7 +5,7 @@
     "description": "Premium cotton shirt with modern fit and stylish design.",
     "oldPrice": 1499,
     "newPrice": 999,
-    "image": "assets/men-shirt.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/men.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "description": "Comfortable slim-fit jeans for everyday wear.",
     "oldPrice": 1999,
     "newPrice": 1499,
-    "image": "assets/men-jeans.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/mens1.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "description": "Women printed kurti with elegant ethnic style.",
     "oldPrice": 1699,
     "newPrice": 1199,
-    "image": "assets/women-kurti.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/women.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "description": "Stylish handbag with spacious compartments.",
     "oldPrice": 2499,
     "newPrice": 1799,
-    "image": "assets/women-bag.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/women1.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "description": "Soft cotton t-shirt with colorful print.",
     "oldPrice": 899,
     "newPrice": 599,
-    "image": "assets/kids-tshirt.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/kid.jpg"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "description": "Lightweight sports shoes for active kids.",
     "oldPrice": 1299,
     "newPrice": 899,
-    "image": "assets/kids-shoes.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/kids1.jpg"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "description": "Classic analog watch with premium finish.",
     "oldPrice": 2999,
     "newPrice": 1999,
-    "image": "assets/men-watch.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/mens2.jpg"
   },
   {
     "id": 8,
@@ -61,6 +61,6 @@
     "description": "Trendy sandals with comfortable sole.",
     "oldPrice": 1799,
     "newPrice": 1299,
-    "image": "assets/women-sandals.jpg"
+    "image": "https://kishan80090.github.io/jsondata/pictures/women2.jpg"
   }
 ]
