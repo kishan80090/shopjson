@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Men Casual Shirt",
+    "description": "Premium cotton shirt with modern fit and stylish design.",
+    "oldPrice": 1499,
+    "newPrice": 999,
+    "image": "assets/men-shirt.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Men Jeans",
+    "description": "Comfortable slim-fit jeans for everyday wear.",
+    "oldPrice": 1999,
+    "newPrice": 1499,
+    "image": "assets/men-jeans.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Women Kurti",
+    "description": "Women printed kurti with elegant ethnic style.",
+    "oldPrice": 1699,
+    "newPrice": 1199,
+    "image": "assets/women-kurti.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Women Handbag",
+    "description": "Stylish handbag with spacious compartments.",
+    "oldPrice": 2499,
+    "newPrice": 1799,
+    "image": "assets/women-bag.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Kids T-Shirt",
+    "description": "Soft cotton t-shirt with colorful print.",
+    "oldPrice": 899,
+    "newPrice": 599,
+    "image": "assets/kids-tshirt.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Kids Shoes",
+    "description": "Lightweight sports shoes for active kids.",
+    "oldPrice": 1299,
+    "newPrice": 899,
+    "image": "assets/kids-shoes.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Men Watch",
+    "description": "Classic analog watch with premium finish.",
+    "oldPrice": 2999,
+    "newPrice": 1999,
+    "image": "assets/men-watch.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Women Sandals",
+    "description": "Trendy sandals with comfortable sole.",
+    "oldPrice": 1799,
+    "newPrice": 1299,
+    "image": "assets/women-sandals.jpg"
+  }
+]
