@@ -5,7 +5,7 @@
     "description": "Premium cotton shirt with modern fit and stylish design.",
     "oldPrice": 1499,
     "newPrice": 999,
-    "image": "https://kishan80090.github.io/jsondata/pictures/men.jpg"
+    "image": "/pic/men.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "description": "Comfortable slim-fit jeans for everyday wear.",
     "oldPrice": 1999,
     "newPrice": 1499,
-    "image": "https://kishan80090.github.io/jsondata/pictures/mens1.jpg"
+    "image": "/pic/mens1.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "description": "Women printed kurti with elegant ethnic style.",
     "oldPrice": 1699,
     "newPrice": 1199,
-    "image": "https://kishan80090.github.io/jsondata/pictures/women.jpg"
+    "image": "/pic/women.jpg"
   },
   {
     "id": 4,
