@@ -21,7 +21,7 @@
     "newPrice": 1499,
     "image": "https://kishan80090.github.io/jsondata/pictures/mens1.jpg",
     "images": [
-    "https://kishan80090.github.io/jsondata/pictures/men-front.jpg",
+    "https://kishan80090.github.io/jsondata/pictures/mens1.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-back.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-side.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-model.jpg"
@@ -35,7 +35,7 @@
     "newPrice": 1199,
     "image": "https://kishan80090.github.io/jsondata/pictures/women.jpg",
     "images": [
-    "https://kishan80090.github.io/jsondata/pictures/men-front.jpg",
+    "https://kishan80090.github.io/jsondata/pictures/women.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-back.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-side.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-model.jpg"
@@ -49,7 +49,7 @@
     "newPrice": 1799,
     "image": "https://kishan80090.github.io/jsondata/pictures/women1.jpg",
     "images": [
-    "https://kishan80090.github.io/jsondata/pictures/men-front.jpg",
+    "https://kishan80090.github.io/jsondata/pictures/women1.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-back.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-side.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-model.jpg"
@@ -63,7 +63,7 @@
     "newPrice": 599,
     "image": "https://kishan80090.github.io/jsondata/pictures/kid.jpg",
     "images": [
-    "https://kishan80090.github.io/jsondata/pictures/men-front.jpg",
+    "https://kishan80090.github.io/jsondata/pictures/kid.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-back.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-side.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-model.jpg"
@@ -77,7 +77,7 @@
     "newPrice": 899,
     "image": "https://kishan80090.github.io/jsondata/pictures/kids1.jpg",
     "images": [
-    "https://kishan80090.github.io/jsondata/pictures/men-front.jpg",
+    "https://kishan80090.github.io/jsondata/pictures/kids1.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-back.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-side.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-model.jpg"
@@ -91,7 +91,7 @@
     "newPrice": 1999,
     "image": "https://kishan80090.github.io/jsondata/pictures/mens2.jpg",
     "images": [
-    "https://kishan80090.github.io/jsondata/pictures/men-front.jpg",
+    "https://kishan80090.github.io/jsondata/pictures/mens2.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-back.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-side.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-model.jpg"
@@ -105,7 +105,7 @@
     "newPrice": 1299,
     "image": "https://kishan80090.github.io/jsondata/pictures/women2.jpg",
     "images": [
-    "https://kishan80090.github.io/jsondata/pictures/men-front.jpg",
+    "https://kishan80090.github.io/jsondata/pictures/women2.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-back.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-side.jpg",
     "https://kishan80090.github.io/jsondata/pictures/men-model.jpg"
