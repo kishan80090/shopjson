@@ -2,113 +2,113 @@
   {
     "id": 1,
     "name": "Men Stylish Casual Jacket Outfit",
-    "description": "Upgrade your everyday fashion with this stylish men's casual outfit featuring a modern jacket design. Made with premium-quality fabric for maximum comfort and durability, this outfit is perfect for college, outings, travel, and daily wear. The trendy look combined with a relaxed fit gives you a confident and urban street-style appearance.",
+    "description": "Stylish men's casual jacket made with premium fabric for comfort and a trendy everyday look.",
     "oldPrice": 1499,
     "newPrice": 999,
     "image": "https://kishan80090.github.io/jsondata/pictures/men.jpg",
     "images": [
-    "https://kishan80090.github.io/jsondata/pictures/men.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/men6.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/men7.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/men8.jpg"
-  ]
+      "https://kishan80090.github.io/jsondata/pictures/men.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/men6.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/men7.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/men8.jpg"
+    ]
   },
   {
     "id": 2,
     "name": "Men Stylish Casual Shirt – Modern Fit",
-    "description": "Elevate your everyday look with this stylish men's casual shirt designed for a modern and confident appearance. Made with premium-quality breathable fabric, it ensures all-day comfort while maintaining a sharp and trendy look. Perfect for college, office casual days, outings, and weekend wear, this shirt blends simplicity with elegance. Its modern fit design enhances your personality and gives you a smart urban fashion vibe.",
+    "description": "Modern fit men's casual shirt crafted from breathable fabric, perfect for daily and casual wear.",
     "oldPrice": 1999,
     "newPrice": 1499,
     "image": "https://kishan80090.github.io/jsondata/pictures/mens1.jpg",
     "images": [
-    "https://kishan80090.github.io/jsondata/pictures/mens1.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/men12.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/men13.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/men2.jpg"
-  ]
+      "https://kishan80090.github.io/jsondata/pictures/mens1.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/men12.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/men13.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/men2.jpg"
+    ]
   },
   {
     "id": 3,
     "name": "Women Stylish Casual Shirt – Elegant Modern Fit",
-    "description": "Step into effortless elegance with this stylish women's casual shirt designed for a modern and graceful look. Crafted from premium-quality breathable fabric, it ensures all-day comfort while maintaining a chic and fashionable appearance. Perfect for office wear, college, casual outings, and weekend styling, this shirt enhances your personality with a soft, feminine, and trendy touch. Pair it easily with jeans, trousers, or skirts for a complete fashionable outfit.",
+    "description": "Elegant women's casual shirt with a comfortable fit, ideal for college, office, and outings.",
     "oldPrice": 1699,
     "newPrice": 1199,
     "image": "https://kishan80090.github.io/jsondata/pictures/women.jpg",
     "images": [
-    "https://kishan80090.github.io/jsondata/pictures/women.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/girl3.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/girl4.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/girl5.jpg"
-  ]
+      "https://kishan80090.github.io/jsondata/pictures/women.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/girl3.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/girl4.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/girl5.jpg"
+    ]
   },
   {
     "id": 4,
     "name": "Women Trendy Casual Top – Chic Everyday Wear",
-    "description": "Refresh your wardrobe with this stylish women's casual top, designed to bring together comfort and modern fashion. Made from soft and breathable fabric, it offers a flattering fit and effortless elegance for daily wear. Perfect for college, office, shopping trips, casual outings, and weekend gatherings, this trendy top pairs beautifully with jeans, trousers, or skirts. Its contemporary design adds a fashionable touch while ensuring all-day comfort and confidence.",
+    "description": "Trendy women's casual top made from soft fabric for a stylish and comfortable everyday look.",
     "oldPrice": 2499,
     "newPrice": 1799,
     "image": "https://kishan80090.github.io/jsondata/pictures/women1.jpg",
     "images": [
-    "https://kishan80090.github.io/jsondata/pictures/women1.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/girl6.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/girl7.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/girl9.jpg"
-  ]
+      "https://kishan80090.github.io/jsondata/pictures/women1.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/girl6.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/girl7.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/girl9.jpg"
+    ]
   },
   {
     "id": 5,
     "name": "Kids Casual T-Shirt – Comfortable Everyday Wear",
-    "description": "Keep your little one comfortable and stylish with this trendy kids casual T-shirt. Made from soft and breathable fabric, it provides all-day comfort for playtime, school, outings, and everyday activities. The lightweight design and modern look make it a perfect choice for active kids. Easy to pair with jeans, shorts, or joggers, this T-shirt offers both durability and style for any occasion.",
+    "description": "Comfortable kids T-shirt made from soft fabric, perfect for playtime and daily activities.",
     "oldPrice": 899,
     "newPrice": 599,
     "image": "https://kishan80090.github.io/jsondata/pictures/kid.jpg",
     "images": [
-    "https://kishan80090.github.io/jsondata/pictures/kid.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/kids23.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/kids24.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/kids25.jpg"
-  ]
+      "https://kishan80090.github.io/jsondata/pictures/kid.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/kids23.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/kids24.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/kids25.jpg"
+    ]
   },
   {
     "id": 6,
     "name": "Kids Fashion Hoodie – Trendy & Comfortable Wear",
-    "description": "Give your child a stylish and cozy look with this fashionable kids hoodie. Crafted from soft, skin-friendly fabric, it provides warmth and comfort throughout the day. Perfect for school, outdoor activities, family outings, and casual wear, this hoodie combines modern style with practicality. The comfortable fit and durable material make it an ideal addition to your child's wardrobe.",
+    "description": "Fashionable kids hoodie offering warmth, comfort, and a trendy look for any occasion.",
     "oldPrice": 1299,
     "newPrice": 899,
     "image": "https://kishan80090.github.io/jsondata/pictures/kids1.jpg",
     "images": [
-    "https://kishan80090.github.io/jsondata/pictures/kids1.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/kids20.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/kids21.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/kids22.jpg"
-  ]
+      "https://kishan80090.github.io/jsondata/pictures/kids1.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/kids20.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/kids21.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/kids22.jpg"
+    ]
   },
   {
     "id": 7,
     "name": "Men Premium Casual Shirt – Smart Fit Collection",
-    "description":"Upgrade your wardrobe with this premium men's casual shirt, designed for a sharp and sophisticated look. Crafted from high-quality breathable fabric, it offers exceptional comfort and durability for everyday wear. Whether you're heading to college, the office, a casual outing, or a weekend gathering, this smart-fit shirt delivers a stylish and confident appearance. Its modern design and versatile appeal make it an essential piece for every fashion-conscious man.",
+    "description": "Premium men's casual shirt with a smart fit design, ideal for a stylish everyday appearance.",
     "oldPrice": 2999,
     "newPrice": 1999,
     "image": "https://kishan80090.github.io/jsondata/pictures/mens2.jpg",
     "images": [
-    "https://kishan80090.github.io/jsondata/pictures/mens2.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/man1.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/man3.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/man4.jpg"
-  ]
+      "https://kishan80090.github.io/jsondata/pictures/mens2.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/man1.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/man3.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/man4.jpg"
+    ]
   },
   {
     "id": 8,
     "name": "Women Elegant Casual Dress – Modern Fashion Collection",
-    "description": "Enhance your style with this elegant women's casual dress, designed to offer a perfect blend of comfort and sophistication. Made from soft and breathable premium fabric, it provides a flattering fit for all-day wear. Ideal for casual outings, brunch dates, shopping trips, college events, and special occasions, this dress adds a graceful and fashionable touch to your wardrobe. Its contemporary design and comfortable feel make it a must-have choice for modern women.",
+    "description": "Elegant women's casual dress designed for comfort, style, and everyday fashion.",
     "oldPrice": 1799,
     "newPrice": 1299,
     "image": "https://kishan80090.github.io/jsondata/pictures/women2.jpg",
     "images": [
-    "https://kishan80090.github.io/jsondata/pictures/women2.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/girl11.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/girl12.jpg",
-    "https://kishan80090.github.io/jsondata/pictures/girl10.jpg"
-  ]
+      "https://kishan80090.github.io/jsondata/pictures/women2.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/girl11.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/girl12.jpg",
+      "https://kishan80090.github.io/jsondata/pictures/girl10.jpg"
+    ]
   }
 ]
